@@ -3,13 +3,13 @@ lockfileVersion: 5.3
 specifiers:
   dumi: 1.1.39
   lint-staged: 12.3.5
-  prettier: 2.6.0
+  prettier: 2.6.1
   yorkie: 2.0.0
 
 devDependencies:
   dumi: 1.1.39
   lint-staged: 12.3.5
-  prettier: 2.6.0
+  prettier: 2.6.1
   yorkie: 2.0.0
 
 packages:
@@ -3430,8 +3430,8 @@ packages:
     hasBin: true
     dev: true
 
-  /prettier/2.6.0:
-    resolution: {integrity: sha512-m2FgJibYrBGGgQXNzfd0PuDGShJgRavjUoRCw1mZERIWVSXF0iLzLm+aOqTAbLnC3n6JzUhAA8uZnFVghHJ86A==}
+  /prettier/2.6.1:
+    resolution: {integrity: sha512-8UVbTBYGwN37Bs9LERmxCPjdvPxlEowx2urIL6urHzdb3SDq4B/Z6xLFCblrSnE4iKWcS6ziJ3aOYrc1kz/E2A==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
